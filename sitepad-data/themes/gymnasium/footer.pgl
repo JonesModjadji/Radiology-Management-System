@@ -1,0 +1,61 @@
+[pl_row pagelayer-id="wlSbSv5waHTwV5uF"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#111111ff" ele_padding="30px,0px,20px,0px"]
+[pl_col pagelayer-id="nqUCM0tYrTbJIeli"  overlay_hover_delay="400"]
+[pl_inner_row pagelayer-id="LAmmRZTOq6AOBoS0"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="LRSh4RJHXJsbCWsn"  overlay_hover_delay="400" col="6" ele_padding_tablet="0px,0px,0px,10px"]
+[pl_wp_title pagelayer-id="ssoFpBrZlJyN30Gd"  site_name="Gymnasium" site_title_state="normal" text-align="center" site_logo="true" logo_img_size="custom" align="left" vertical_align="middle" logo_img_type="custom-logo" logo_img="{{theme_url}}/images/logo.png" logo_img_custom_size="13" title_color="#ffffffff" site_title_style="Merriweather,24,,,,,Solid,,,," title_padding="0,0,0,0" site_title_style_mobile=",20,,,,,Solid,,,," logo_img_custom_size_mobile="25" logo_img_custom_size_tablet="10"]
+[/pl_wp_title]
+[pl_text pagelayer-id="I3c1y8WwKZFm12fD"  font_family="Muli" font_size="16" ele_padding="10px,0px,0px,0px" font_size_mobile="NaN"]
+
+
+<p style="color: white;">Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, nasce auci elit consequat ipsutissem niuis.</p>[/pl_text]
+[pl_share_grp pagelayer-id="sciR6uLCdF1eb7JQ"  type="icon" bg_shape="pagelayer-social-bg-none" align="left" vspace="NaN" hspace="15" height="0" icon_size="25" icon_space="5" color_scheme="" icon_color="#ffffff" social_hover_delay="400" name_typo=",15,,,,,solid,,,," icon_bg_color="" ele_padding="20px,0px,10px,0px"]
+[pl_share pagelayer-id="KdTIlOeuNhIoEF2O"  icon="fab fa-facebook-f"]
+[/pl_share]
+[pl_share pagelayer-id="NxQeDLUCRsR9U9zA"  icon="fab fa-twitter"]
+[/pl_share]
+[pl_share pagelayer-id="ANi7mI6Aus7arvxL"  icon="fab fa-instagram"]
+[/pl_share]
+[pl_share pagelayer-id="YsRV1ZgUrF0GajHu"  icon="fab fa-linkedin-in"]
+[/pl_share]
+[/pl_share_grp]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="0mfHdjAbAzdizqbd"  overlay_hover_delay="400" col="3" ele_padding_tablet="0px,0px,0px,10px"]
+[pl_heading pagelayer-id="aufIYs5AWrib9EvX"  heading_state="normal" color="#ffffffff" heading_typo="Merriweather,22,,,,,Solid,,,," ele_padding="20px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+<h2>Quick Links</h2>[/pl_heading]
+[pl_list pagelayer-id="oAUNsvFGCviDYtl2"  list_type="none" spacing="10" list_text_state="normal" item_indent="7" list_icon_state="normal" icon_color="#ffffffff" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" ele_padding="10px,0px,0px,0px" side_spacing="NaN" list_typo="Muli,16,,,,,Solid,,,," list_color="#ffffffff" icon_size="16"]
+[pl_list_item pagelayer-id="j8KNK3Lskh63u2Cx"  show_icon="true" icon="far fa-dot-circle" item_url="#"]
+
+
+Home[/pl_list_item]
+[pl_list_item pagelayer-id="OA8Vdgz83hsu38rM"  show_icon="true" icon="far fa-dot-circle" item_url="#"]
+
+
+About Us[/pl_list_item]
+[pl_list_item pagelayer-id="unHcdjsaiuR2yBSg"  show_icon="true" icon="far fa-dot-circle" item_url="#"]
+
+
+Contact Us[/pl_list_item]
+[pl_list_item pagelayer-id="ckqgH84mui3SI1cj"  show_icon="true" icon="far fa-dot-circle" item_url="#"]
+
+Class[/pl_list_item]
+[/pl_list]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="UdbekbibY4BXWxtF"  overlay_hover_delay="400" col="3" ele_padding_tablet="0px,0px,0px,10px"]
+[pl_heading pagelayer-id="cjR25IbtO2Q99hSN"  heading_state="normal" color="#ffffffff" heading_typo="Merriweather,22,,,,,Solid,,,," ele_padding="20px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+<h2>Contact Us</h2>[/pl_heading]
+[pl_address pagelayer-id="1txBjKSGlnInxAUd"  icon="fas fa-map-marker-alt" typography="Muli,16,,,,,Solid,,,," color="#ffffffff" space="10" icon_size="16" icon_color="#ffffffff" ele_padding="10px,0px,0px,0px"]
+[/pl_address]
+[pl_phone pagelayer-id="E55nRasoGxgIoF1v"  icon="fas fa-mobile-alt" ele_padding="10px,0px,0px,0px" color="#ffffffff" linked="true" typography="Muli,16,,,,,Solid,,,," space="10" icon_size="16" icon_color="#ffffffff"]
+[/pl_phone]
+[pl_email pagelayer-id="iMSXTwmy7j3WCmol"  icon="fas fa-envelope" ele_padding="10px,0px,0px,0px" linked="true" color="#ffffffff" typography="Muli,16,,,,,Solid,,,," space="10" icon_size="16" icon_color="#ffffffff"]
+[/pl_email]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_copyright pagelayer-id="PXnlvnBqnb31ML9d"  typography="Merriweather,20,,,,,Solid,,,," color="#ffffffff" ele_padding_tablet="20px,0px,0px,0px" ele_padding_mobile="10px,0px,0px,0px"]
+[/pl_copyright]
+[/pl_col]
+[/pl_row]

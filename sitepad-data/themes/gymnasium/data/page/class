@@ -1,0 +1,111 @@
+[pl_post_props pagelayer-id="uve2PWpEFSDbPevL"  post_title="Class" post_name="class" post_status="publish" featured_image="" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="fxT4fEv4IjY7fb65"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="70px,0px,70px,0px"]
+[pl_col pagelayer-id="pbP9sdQmos0DsGM4"  overlay_hover_delay="400" col="4"]
+[pl_heading pagelayer-id="pxdmaQskelGmwNPz"  heading_state="normal" color="#111111" align="center" heading_typo="Merriweather,36,,,,,Solid,,,," heading_typo_mobile=",24,,,,,Solid,,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<h2>Our Class</h2>[/pl_heading]
+[pl_text pagelayer-id="Ad6OnP9mqn4v7kDa"  ele_padding="10px,0px,0px,0px" font_family="Muli" font_size="16" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="text-align: center;">Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, nasce auci elit consequat ipsutissem niuis sed odio sit amet nibh vulputate cursus a sit pretium amet.</p>[/pl_text]
+[pl_inner_row pagelayer-id="odUYHVSp3r6Bb0ly"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="20px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="uOPEpGETVdXRosDP"  overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="fk6XJSqn5CED88MV"  service_image="{{theme_url}}/images/cardio.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Fitness (Gym & Cardio)" heading_alignment="center" service_title_spacing="20,0,20,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" font_family="Muli" font_size="16" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More ⇾" service_btn_spacing="10,0,20,0" service_button_typo="Muli,16,,,,,Solid,,,," service_btn_state="hover" service_button_color="#000000ff" service_button_bg_color="" service_button_color_hover="#d7272aff" service_content_spacing="0,20,0,20" service_btn_dim="0,0" border_type="dashed" border_width="1px,1px,1px,1px" border_color="#CCC" anim_hover="grow" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="font-size: 24px; font-weight: 600; color: #d7272aff;">$ 60.00</p>
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="UPKpZSC3VczGJxNZ"  overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="sp1amEIrHJRatH1W"  service_image="{{theme_url}}/images/strength.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Strength Training" heading_alignment="center" service_title_spacing="20,0,20,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" font_family="Muli" font_size="16" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More ⇾" service_btn_spacing="10,0,20,0" service_button_typo="Muli,16,,,,,Solid,,,," service_btn_state="hover" service_button_color="#000000ff" service_button_bg_color="" service_button_color_hover="#d7272aff" service_content_spacing="0,20,0,20" service_btn_dim="0,0" border_type="dashed" border_width="1px,1px,1px,1px" border_color="#CCC" anim_hover="grow" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="font-size: 24px; font-weight: 600; color: #d7272aff;">$ 25.00</p>
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="fYvUCnUpNkcRYvGu"  overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="GInYtW00TIrC713x"  service_image="{{theme_url}}/images/yoga.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Power Yoga" heading_alignment="center" service_title_spacing="20,0,20,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" font_family="Muli" font_size="16" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More ⇾" service_btn_spacing="10,0,20,0" service_button_typo="Muli,16,,,,,Solid,,,," service_btn_state="hover" service_button_color="#000000ff" service_button_bg_color="" service_button_color_hover="#d7272aff" service_content_spacing="0,20,0,20" service_btn_dim="0,0" border_type="dashed" border_width="1px,1px,1px,1px" border_color="#CCC" anim_hover="grow" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="font-size: 24px; font-weight: 600; color: #d7272aff;">$ 35.00</p>
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="70BiVNCfJoXQue4s"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="" ele_bg_color="#d7272aff" ele_padding="0px,0px,0px,0px"]
+[pl_col pagelayer-id="lC7aa5d90D2iVTT7"  overlay_hover_delay="400" col="6" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/services.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" content_pos="center" ele_padding_tablet="200px,0px,200px,0px" ele_padding_mobile="100px,0px,100px,0px" animation="fadeInLeft" animation_delay="600"]
+[/pl_col]
+[pl_col pagelayer-id="BUW8bZHitz90nEzY"  overlay_hover_delay="400" col="6" ele_padding="70px,50px,70px,50px" ele_bg_type="color" ele_bg_color="#d7272aff" ele_padding_mobile="70px,10px,70px,10px" animation="fadeInRight" animation_delay="600"]
+[pl_heading pagelayer-id="UDJIg94Dupwb9Iv4"  heading_state="normal" color="#ffffffff" heading_typo="Merriweather,36,,,,,Solid,,,," heading_typo_mobile=",24,,,,,Solid,,,," align_mobile="center"]
+
+
+
+<h2>Services</h2>[/pl_heading]
+[pl_iconbox pagelayer-id="VF5XXcjei5tY5IZ3"  service_icon="fas fa-dumbbell" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="50" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Personal Training" heading_alignment="left" service_title_spacing="0,0,5,15" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_padding="20px,0px,0px,0px" service_content_spacing="0,0,0,15" font_family="Muli" font_size="16" ele_padding_mobile="30px,0px,0px,0px"]
+
+
+
+<p style="color: white;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="gv6n9GreiJvoYkMF"  service_icon="fas fa-users" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="50" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Personal Training" heading_alignment="left" service_title_spacing="0,0,5,15" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_padding="40px,0px,0px,0px" service_content_spacing="0,0,0,15" font_family="Muli" font_size="16"]
+
+
+
+<p style="color: white;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="Y0mZu1tXZKuHYbwK"  service_icon="fas fa-stopwatch" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="72" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Personal Training" heading_alignment="left" service_title_spacing="0,0,5,15" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_padding="40px,0px,0px,0px" service_content_spacing="0,0,0,15" font_family="Muli" font_size="16"]
+
+
+
+<p style="color: white;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="CO6JSbIROCOOBqlV"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="70px,0px,80px,0px"]
+[pl_col pagelayer-id="cJfJstQcOqrBLivz"  overlay_hover_delay="400"]
+[pl_heading pagelayer-id="Gl6joabCUpjVmcIa"  heading_state="normal" color="#111111" align="center" heading_typo="Merriweather,36,,,,,Solid,,,," heading_typo_mobile=",24,,,,,Solid,,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+<h2>Our Gallery</h2>[/pl_heading]
+[pl_text pagelayer-id="aAFYjzRO5SZ6CFSG"  ele_padding="10px,0px,0px,0px" font_family="Muli" font_size="16" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="text-align: center;">Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, nasce auci elit consequat ipsutissem niuis sed odio sit amet nibh vulputate cursus a sit pretium amet.</p>[/pl_text]
+[pl_image_slider pagelayer-id="7ZCg6NQ3kh7fZWHp"  size="full" slide_items="3" pause="3000" speed="800" loop="true" auto="true" auto_hover="true" arrows_bg="#6a6969" arraow_color="#ffffff" arraow_bg_size="20" arraow_bg_shape="20" ele_padding="20px,0px,0px,0px" ids="{{theme_url}}/images/gallery1.jpg,{{theme_url}}/images/gallery2.jpg,{{theme_url}}/images/gallery3.jpg,{{theme_url}}/images/gallery4.jpg,{{theme_url}}/images/gallery5.jpg" controls="none" animation="fadeInUp" animation_delay="600"]
+[/pl_image_slider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="mFR736tOtzqXO0ks"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/home1.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.7" overlay_color="#fff5f5ff" ele_padding="70px,0px,70px,0px"]
+[pl_col pagelayer-id="CAz9rm1JVgP75UfT"  overlay_hover_delay="400"]
+[pl_heading pagelayer-id="Bl40R5eCGnaXGh9I"  heading_state="normal" color="#111111" align="center" heading_typo="Merriweather,36,,,,,Solid,,,," heading_typo_mobile=",24,,,,,Solid,,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+<h2>Fitness Classes</h2>[/pl_heading]
+[pl_heading pagelayer-id="TbXr5r5XUkHDRrsY"  heading_state="normal" color="#111111" align="center" heading_typo="Merriweather,24,,,,,Solid,,,," ele_padding="20px,0px,0px,0px" heading_typo_mobile=",20,,,,,Solid,,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+<h2>Pay now and get special <span style="color: #D7272A">20% discount</span></h2>[/pl_heading]
+[pl_text pagelayer-id="xcLUXUhFvjuNmvbR"  ele_padding="20px,0px,0px,0px" font_family="Muli" font_size="16" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+<p style="text-align: center; color: black;">Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, nasce auci elit consequat ipsutissem niuis sed odio sit amet nibh vulputate cursus a sit pretium amet.</p>[/pl_text]
+[pl_btn pagelayer-id="KyZaewJu2AZXgJv9"  text="Book Now" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-large" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_padding="20px,0px,0px,0px" btn_typo="Muli,16,,,,,Solid,,,," btn_bg_color="#d7272aff" btn_color="#ffffff" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="25,25,25,25" link="#" animation="fadeInUp" animation_delay="600"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]

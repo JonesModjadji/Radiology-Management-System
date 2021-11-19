@@ -1,0 +1,41 @@
+[pl_row pagelayer-id="5tA6eis8Ruq7OzCt"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="70px,0px,70px,0px"]
+[pl_col pagelayer-id="ydlvC21TNfxXtkAe"  overlay_hover_delay="400" col="3"]
+[pl_heading pagelayer-id="0Tmpod6aAprNxDTQ"  heading_state="normal" color="#111111" align="center" heading_typo="Merriweather,36,,,,,Solid,,,," heading_typo_mobile=",24,,,,,Solid,,,," animation="fadeInUp" animation_delay="600"]
+<h2>Contact Us</h2>[/pl_heading]
+[pl_text pagelayer-id="2AkJxoTyZmOUxiQS"  ele_padding="10px,0px,0px,0px" font_family="Muli" font_size="16" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="text-align: center;">Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, nasce auci elit consequat ipsutissem niuis sed odio sit amet nibh vulputate cursus a sit pretium amet.</p>[/pl_text]
+[pl_inner_row pagelayer-id="gjzwJIXxcdmGuac5"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="20px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="z2vAhb9GIYKhFz5y"  overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="U2PA9OA6peyDPaMi"  service_icon="fas fa-map-marker-alt" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#000000ff" service_icon_font_size="26" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Address" heading_alignment="center" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" font_family="Muli" font_size="16" heading_typo_hover="Merriweather,,,,,,Solid,,,," service_content_spacing="0,0,10,0" border_type="dashed" border_width="1px,1px,1px,1px" border_color="#CCC" service_icon_spacing="0,0,0,20" animation="fadeInUp" animation_delay="600" service_heading_typo_mobile=",20,,,,,Solid,,,,"]
+206, James Street, New Balcony, 502360[/pl_iconbox]
+[pl_iconbox pagelayer-id="RaYXjgC4loRQ4YEA"  service_icon="fas fa-mobile-alt" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#000000ff" service_icon_font_size="26" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Phone" heading_alignment="center" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" font_family="Muli" font_size="16" heading_typo_hover="Merriweather,,,,,,Solid,,,," service_content_spacing="0,0,10,0" border_type="dashed" border_width="1px,1px,1px,1px" border_color="#CCC" ele_padding="0px,0px,0px,0px" ele_margin="30px,0px,0px,0px" service_icon_spacing="0,0,0,20" animation="fadeInUp" animation_delay="600" service_heading_typo_mobile=",20,,,,,Solid,,,,"]
++(123) 123456789[/pl_iconbox]
+[pl_iconbox pagelayer-id="2GIpXxptZ59wk8cX"  service_icon="fas fa-envelope-open-text" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#000000ff" service_icon_font_size="26" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Email" heading_alignment="center" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" font_family="Muli" font_size="16" heading_typo_hover="Merriweather,,,,,,Solid,,,," service_content_spacing="0,0,10,0" border_type="dashed" border_width="1px,1px,1px,1px" border_color="#CCC" ele_padding="0px,0px,0px,0px" ele_margin="30px,0px,0px,0px" service_icon_spacing="0,0,0,20" animation="fadeInUp" animation_delay="600" service_heading_typo_mobile=",20,,,,,Solid,,,,"]
+sitepadteam@sitepad.com[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="9suW15PQBI8X4r36"  overlay_hover_delay="400" col="7" ele_padding_tablet="10px,0px,0px,0px" ele_padding_mobile="10px,0px,0px,0px"]
+[pl_contact pagelayer-id="T9UGwFgL6QNKqzHs"  form="contact-form" name="Contact Form" form_position="center" space_label=",,10," input_state="normal" input_padding="10,10" radio_padding="10,10" field_hover_delay="400" submit="Send" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" con_post_id="6659" placeholder_typo="Muli,16,,,,,Solid,,,," form_placeholder_color="#000000ff" input_typo="Muli,16,,,,,Solid,,,," form_input_color="#000000ff" btn_typo="Muli,16,,,,,Solid,,,," btn_bg_color="#d7272aff" btn_color="#ffffff" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" animation="fadeInUp" animation_delay="600"]
+[pl_contact_item pagelayer-id="pjqZpWsk8Uh9uhKp"  label_name="Your Name:" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," required="true" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="y9flnsKsU23TvuAs"  label_name="Your Email:" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," required="true" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="x6SYr6D0gUgxg1k1"  label_name="Your Message:" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," required="true" label_as_holder="true" textarea_rows="4"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="C3Axwj6JBj5ylPL8"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_col pagelayer-id="ytFRbMDyEhEBRJ4H"  overlay_hover_delay="400"]
+[pl_google_maps pagelayer-id="8jGwE43ZXZgpKLjx"  zoom="10" height="400" animation="fadeInUp" animation_delay="600"]
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]

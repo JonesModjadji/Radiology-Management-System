@@ -1,0 +1,253 @@
+[pl_row pagelayer-id="Yndhs7sNc8Bg0tLE"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="70px,0px,70px,0px"]
+[pl_col pagelayer-id="FCncmfCQe0Fogu4M"  overlay_hover_delay="400" col="6" content_pos="center" ele_padding="30px,30px,30px,30px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading pagelayer-id="9aFaqz0oYXNHE00Z"  heading_state="normal" color="#111111" heading_typo="Merriweather,36,,,,,Solid,,,," heading_typo_mobile=",24,,,,,Solid,,,," animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+
+<h2>It's all about fitness</h2>[/pl_heading]
+[pl_iconbox pagelayer-id="BVJQR2Y3SJCrCQi2"  service_icon="fas fa-braille" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#d7272aff" service_icon_font_size="16" service_icon_hover_delay="400" service_bor_state="normal" service_heading="About Us" heading_alignment="left" service_title_spacing="0,0,0,10" heading_state="normal" service_heading_color="#d7272aff" service_heading_typo="Muli,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_padding="10px,0px,0px,0px" service_heading_typo_mobile=",20,,,,,Solid,,,," animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+
+[/pl_iconbox]
+[pl_text pagelayer-id="rM96wcRR6kBsU5no"  ele_padding="20px,0px,0px,0px" font_family="Muli" font_size="16" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+
+<p style="text-align: justify; ">Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, nasce auci elit consequat ipsutissem niuis sed odio sit amet nibh vulputate cursus a sit pretium amet. Etiam rhoncus. Maecenas tempus, tellus eget condimentum varius gravida quam libero, sit amet adipiscing</p>[/pl_text]
+[pl_btn pagelayer-id="FufDdU3igSMRuwyO"  text="Read More" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-large" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_padding="20px,0px,0px,0px" btn_typo="Muli,16,,,,,Solid,,,," btn_bg_color="#d7272aff" btn_color="#ffffff" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="25,25,25,25" link="#" animation="fadeInLeft" animation_delay="600"]
+[/pl_btn]
+[/pl_col]
+[pl_col pagelayer-id="uvpLONbKJdhKAgBi"  overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="taCtJMfvKPG1zR6v"  id="{{theme_url}}/images/about.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+
+
+[/pl_image]
+[pl_inner_row pagelayer-id="q9RY8HelWVq5taVJ"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="-200px,0px,0px,-50px" ele_zindex="-1" ele_margin_tablet="0px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px" hide_mobile="true" hide_tablet="true" animation="fadeInRight" animation_delay="600"]
+[pl_inner_col pagelayer-id="UTSRy7e6HI6jkSqQ"  overlay_hover_delay="400" hide_mobile="true" hide_tablet="true"]
+[pl_divider pagelayer-id="Ox0DQ7kpZLbLov4Y"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_tablet="true" hide_mobile="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="vUPpQBSByIgUR5Ac"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_tablet="true" hide_mobile="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="cMltJ38I6Lgbgy94"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_tablet="true" hide_mobile="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="7cofMypZQCVj2Il9"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_tablet="true" hide_mobile="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="MNkRPYZickD98AUf"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_tablet="true" hide_mobile="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="sfWdRd7Sm3vMHcBs"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="5bp0r91IhHa7zhZJ"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="ZhhYXHmeB3sgJCOz"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="awX2E5yXiwqv8JSq"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="4daZa3udQEziTVz4"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="rcBKI6j1wqeRFpmJ"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="UsNhqGw9nCi6udTJ"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="JOdghHGieuMjLKCp"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="q6MrOTSHbk0nqNuX"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="invRFottM1KWp47M"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="LHJgptIdk2jrqx9s"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="aqc6aKXXPbWhjMNX"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="b7rEqe0R1orisbjZ"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="lp9XUoXAVNXZRu0r"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="qIvHGw8yFOvPsVgF"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="hZ4BCJelW9fPP4G0"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="dWHutoiAgWQAqBZY"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="dXpepx9kavxhYwTF"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="ILNyaTHjq0QsFouf"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[pl_divider pagelayer-id="g7jQHCxR866HCOsY"  divider_style="solid" divider_color="#000000ff" divider_weight="3" divider_widht="50" divider_gap="3" divider_alignment="left" hide_mobile="true" hide_tablet="true"]
+[/pl_divider]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="zluWAbKRoRTVwIgE"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#fff5f5ff" ele_padding="70px,0px,70px,0px"]
+[pl_col pagelayer-id="uekcvaQcv69ySxUy"  overlay_hover_delay="400"]
+[pl_heading pagelayer-id="0AIcGSWYR19Ot48v"  heading_state="normal" color="#111111" heading_typo="Merriweather,36,,,,,Solid,,,," align="center" heading_typo_mobile=",24,,,,,Solid,,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<h2>Why to Choose Us?</h2>[/pl_heading]
+[pl_text pagelayer-id="qv5Nm68xgfsuHR1h"  ele_padding="10px,0px,0px,0px" font_family="Muli" font_size="16" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+<p style="text-align: center;">Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, nasce auci elit consequat ipsutissem niuis sed odio sit amet nibh vulputate cursus a sit pretium amet.</p>[/pl_text]
+[pl_inner_row pagelayer-id="CqZNAOIFXilSOKzg"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="20px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="k7ehcYve4sx6GxId"  overlay_hover_delay="400" col_width_tablet="50" col_width="25" col_width_mobile="100"]
+[pl_service pagelayer-id="8IgwmbmrQM7AdZI6"  service_image="{{theme_url}}/images/slim.png" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Fat Loss" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="85" service_image_spacing="20,0,0,0" border_width="1px,1px,1px,1px" border_color="#CCC" border_radius="0px,0px,0px,0px" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="+" service_button_typo="Bree Serif,40,,,,,Solid,,,," service_btn_dim="15,10" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#d7272aff" border_type="dashed" service_btn_spacing="0,0,0,0" ele_shadow=",,,,0," border_shadow_hover="1,1,5,#d7272aff,0," service_btn_stretch="true" ele_bg_type="color" ele_bg_color="#ffffffff" service_content_spacing="0,20,20,20" font_family="Muli" font_size="16" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>Lorem ipsum proin gravida nibh vel velit auctor aliquet.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="EjitCPEI8i6CpCZX"  overlay_hover_delay="400" col_width_tablet="50" col_width="25" col_width_mobile="100"]
+[pl_service pagelayer-id="HER0Hs8LD2zh6zHZ"  service_image="{{theme_url}}/images/fitness.png" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Fitness" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="85" service_image_spacing="20,0,0,0" border_width="1px,1px,1px,1px" border_color="#CCC" border_radius="0px,0px,0px,0px" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="+" service_button_typo="Bree Serif,40,,,,,Solid,,,," service_btn_dim="15,10" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#d7272aff" border_type="dashed" service_btn_spacing="0,0,0,0" ele_css="{{element}} .pagelayer-service-btn{
+visibility: hidden;
+margin-top: -20px;
+}
+
+{{element}}:hover .pagelayer-service-btn{
+visibility: visible;
+margin-top: 20px;
+}" border_shadow_hover="1,1,5,#d7272aff,0," service_button_url="#" service_btn_stretch="true" ele_bg_type="color" ele_bg_color="#ffffffff" service_content_spacing="0,20,0,20" font_family="Muli" font_size="16" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>Lorem ipsum proin gravida nibh vel velit auctor aliquet.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="qcLS73PSkQsPTOsO"  overlay_hover_delay="400" col_width_tablet="50" col_width="25" col_width_mobile="100"]
+[pl_service pagelayer-id="hj5j6Wi9L0GcIPf2"  service_image="{{theme_url}}/images/nutrition.png" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Nutrition" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="85" service_image_spacing="20,0,0,0" border_width="1px,1px,1px,1px" border_color="#CCC" border_radius="0px,0px,0px,0px" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="+" service_button_typo="Bree Serif,40,,,,,Solid,,,," service_btn_dim="15,10" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#d7272aff" border_type="dashed" service_btn_spacing="0,0,0,0" ele_css="{{element}} .pagelayer-service-btn{
+visibility: hidden;
+margin-top: -20px;
+}
+
+{{element}}:hover .pagelayer-service-btn{
+visibility: visible;
+margin-top:20px;
+}" border_shadow_hover="1,1,5,#d7272aff,0," service_button_url="#" service_btn_stretch="true" ele_bg_type="color" ele_bg_color="#ffffffff" service_content_spacing="0,20,0,20" font_family="Muli" font_size="16" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>Lorem ipsum proin gravida nibh vel velit auctor aliquet.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="rCwnUAvfWk26qwqh"  overlay_hover_delay="400" col_width_tablet="50" col_width="25" col_width_mobile="100"]
+[pl_service pagelayer-id="6p8FwGhgdCtNiEEn"  service_image="{{theme_url}}/images/muscle.png" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Muscle" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="85" service_image_spacing="20,0,0,0" border_width="1px,1px,1px,1px" border_color="#CCC" border_radius="0px,0px,0px,0px" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="+" service_button_typo="Bree Serif,40,,,,,Solid,,,," service_btn_dim="15,10" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#d7272aff" border_type="dashed" service_btn_spacing="0,0,0,0" ele_css="{{element}} .pagelayer-service-btn{
+visibility: hidden;
+margin-top: -20px;
+}
+
+{{element}}:hover .pagelayer-service-btn{
+visibility: visible;
+margin-top:20px;
+}" border_shadow_hover="1,1,5,#d7272aff,0," service_button_url="#" service_btn_stretch="true" ele_bg_type="color" ele_bg_color="#ffffffff" service_content_spacing="0,20,0,20" font_family="Muli" font_size="16" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>Lorem ipsum proin gravida nibh vel velit auctor aliquet.</p>[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="gEBppzByuoaoxcJp"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="70px,0px,50px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/home.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.7" overlay_color="#000000ff" ele_bg_attachment="fixed"]
+[pl_col pagelayer-id="Qa3YEH4sbp8XoMJq"  overlay_hover_delay="400" col_width_tablet="50" col_width="25" col_width_mobile="100"]
+[pl_icon pagelayer-id="WM2N24hYwFVvfKq3"  icon="far fa-clock" icon_background_size="0" icon_alignment="center" icon_color_style="#ffffffff" icon_size="pagelayer-icon-extra-large" icon_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+[/pl_icon]
+[pl_counter pagelayer-id="i77qRpSua8AyDEar"  counter_start_number="500" counter_end_number="1200" animation_duration="2000" counter_align="center" counter_text="Working Hours" counter_text_color="#ffffffff" counter_text_style="Merriweather,20,,400,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Muli,40,,600,,,Solid,1.5,,," ele_margin="-10px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="3c8kSAtsSmM8B5Lo"  overlay_hover_delay="400" col_width_tablet="50" col_width="25" col_width_mobile="100"]
+[pl_icon pagelayer-id="RkEQ5qtpQCz2xkra"  icon="far fa-heart" icon_background_size="0" icon_alignment="center" icon_color_style="#ffffffff" icon_size="pagelayer-icon-extra-large" icon_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+[/pl_icon]
+[pl_counter pagelayer-id="LJJpT2vcKjFj42gS"  counter_start_number="1000" counter_end_number="2000" animation_duration="2000" counter_align="center" counter_text="Happy Clients" counter_text_color="#ffffffff" counter_text_style="Merriweather,20,,400,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Muli,40,,600,,,Solid,1.5,,," ele_margin="-10px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="TUvYYuNkdV6GURyE"  overlay_hover_delay="400" col_width_tablet="50" col_width="25" col_width_mobile="100"]
+[pl_icon pagelayer-id="yDGf76oMtzozJLAF"  icon="far fa-thumbs-up" icon_background_size="0" icon_alignment="center" icon_color_style="#ffffffff" icon_size="pagelayer-icon-extra-large" icon_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+[/pl_icon]
+[pl_counter pagelayer-id="G4NxX7dW71Exk5Rk"  counter_start_number="1" counter_end_number="329" animation_duration="2000" counter_align="center" counter_text="Success Stories" counter_text_color="#ffffffff" counter_text_style="Merriweather,20,,400,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Muli,40,,600,,,Solid,1.5,,," ele_margin="-10px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="YkGLFN8PhZ2vLXYh"  overlay_hover_delay="400" col_width_tablet="50" col_width="25" col_width_mobile="100"]
+[pl_icon pagelayer-id="wzfPm0t22lpt8BJf"  icon="far fa-clock" icon_background_size="0" icon_alignment="center" icon_color_style="#ffffffff" icon_size="pagelayer-icon-extra-large" icon_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+[/pl_icon]
+[pl_counter pagelayer-id="uhVaNgbx9iOTXJIP"  counter_start_number="500" counter_end_number="952" animation_duration="2000" counter_align="center" counter_text="Perfect Bodies" counter_text_color="#ffffffff" counter_text_style="Merriweather,20,,400,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Muli,40,,600,,,Solid,1.5,,," ele_margin="-10px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+[/pl_counter]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="bfgt7eTxj40H08ZK"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#fff5f5ff" ele_padding="70px,0px,70px,0px"]
+[pl_col pagelayer-id="pShXGosMgGv62IE0"  overlay_hover_delay="400"]
+[pl_heading pagelayer-id="ZocT7j11xbfCqzIz"  heading_state="normal" color="#111111" align="center" heading_typo="Merriweather,36,,,,,Solid,,,," heading_typo_mobile=",24,,,,,Solid,,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<h2>Our Trainers</h2>[/pl_heading]
+[pl_text pagelayer-id="91e1JezA8X0SdeuV"  ele_padding="10px,0px,0px,0px" font_family="Muli" font_size="16" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+<p style="text-align: center;">Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, nasce auci elit consequat ipsutissem niuis sed odio sit amet nibh vulputate cursus a sit pretium amet.</p>[/pl_text]
+[pl_inner_row pagelayer-id="vATcBP1YZLTiMqLR"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="20px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="vNkffL3yL9drFpQm"  overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="83KSWLhVoeCsFBpG"  service_image="{{theme_url}}/images/trainer1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Batista Methew" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,20,10,20" font_family="Muli" font_size="16" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-small" service_button_text="Body Trainer" service_btn_spacing="0,0,0,0" service_btn_stretch="true" service_button_typo="Muli,20,,,,,Solid,,,," service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#d7272aff" service_button_url="#" ele_bg_type="color" ele_bg_color="#ffffffff" border_type="dashed" border_width="1px,1px,1px,1px" border_color="#CCC" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="eu1KsPsVthdN0487"  overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="v9rRJmkPlOi2iEW8"  service_image="{{theme_url}}/images/trainer2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Goldberg Cruise" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,20,10,20" font_family="Muli" font_size="16" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-small" service_button_text="Personal Trainer" service_btn_spacing="0,0,0,0" service_btn_stretch="true" service_button_typo="Muli,20,,,,,Solid,,,," service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#d7272aff" service_button_url="#" ele_bg_type="color" ele_bg_color="#ffffffff" border_type="dashed" border_width="1px,1px,1px,1px" border_color="#CCC" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="VMg1ssFlRx8yjmRo"  overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="ecPvol3fOXMxZWxE"  service_image="{{theme_url}}/images/trainer3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Mart Hardy" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,20,10,20" font_family="Muli" font_size="16" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-small" service_button_text="Body Trainer" service_btn_spacing="0,0,0,0" service_btn_stretch="true" service_button_typo="Muli,20,,,,,Solid,,,," service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#d7272aff" service_button_url="#" ele_bg_type="color" ele_bg_color="#ffffffff" border_type="dashed" border_width="1px,1px,1px,1px" border_color="#CCC" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
